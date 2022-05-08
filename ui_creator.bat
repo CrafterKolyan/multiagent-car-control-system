@@ -1,0 +1,1 @@
+uic maska.ui > ui_maska.h

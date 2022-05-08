@@ -1,0 +1,12 @@
+INPUT(
+./debug/main.o
+./debug/maska.o
+./debug/map.o
+./debug/car.o
+./debug/constants.o
+./debug/mapviewer.o
+./debug/moc_maska.o
+./debug/moc_map.o
+./debug/moc_car.o
+./debug/moc_mapviewer.o
+);

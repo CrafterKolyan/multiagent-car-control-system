@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/maska.o
+./release/map.o
+./release/car.o
+./release/constants.o
+./release/mapviewer.o
+./release/moc_maska.o
+./release/moc_map.o
+./release/moc_car.o
+./release/moc_mapviewer.o
+);
